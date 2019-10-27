@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = ""
+subtitle = "開発実績"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,33 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "CyberAgent - GCREST"
+  organization_url = "https://www.gcrest.com/"
+  title = "王子様に急接近AR"
+  url = "https://www.gcrest.com/news/post/6419"
+  date_start = "2019-10-01"
   date_end = ""
-  description = ""
+  description = "ARKitとARCoreを使用したARアプリを作ってみようと言うことで会社で作成し公開まで行ったアプリ。女性向け作品における３D表現で現実世界に現れた時の違和感のない様な表現方法について模索しました。開発はデザインなどを除いて全て一人で実装しています。"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "CyberAgent - GCREST"
+  organization_url = "https://www.gcrest.com/"
+  title = "夢王国と眠れる100人の王子様"
+  url = "https://www.yume-100.com/"
+  date_start = "2018-06-01"
+  date_end = "2018-10-01"
+  description = "運用タイトルのcocos2d-xエンジニアとして従事。機能開発などを行いました。"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  
 +++

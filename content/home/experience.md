@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = ""
+title = "Career"
+subtitle = "経歴"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+company = "CyberAgent,Inc."
+  company_url = "https://www.cyberagent.co.jp/"
+  location = "Tokyo,Shibuya"
+  date_start = "2018-04-02"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = "ゲームエンジニアとして入社　現在子会社のGCRESTに所属　女性向けゲームの開発運営、ARアプリの開発などを担当"
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  # [[experience]]
+  #company = "Graffity Inc,"
+  # company_url = "http://www.graffity.jp/"
+  # location = "Tokyo,Omote-sando"
+  # date_start = "2019-08-01"
+  #date_end = ""
+  # description = "arエンジニアとして従事"
+    
+  [[experience]]
+  company = "Craft Egg Inc."
+    company_url = "https://www.craftegg.co.jp/"
+    location = "Tokyo,Shibuya"
+    date_start = "2017-07-24"
+    date_end = "2017-08-31"
+    description = "CyberAgentの内定者アルバイトとしてバンドリ！ガールズバンドパーティ！のプロジェクトに従事　クライアントエンジニアとして機能開発を担当"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  company = "HAL東京 ゲーム学部ゲーム制作学科4先制課程"
+  company_url = "https://www.hal.ac.jp/tokyo"
+  location = "Tokyo,Shinjuku"
+  date_start = "2014-04-01"
+  date_end = "2018-03-31"
+  description = "ゲーム制作学科に所属　DirectX,OpenGL,Unityなどを使用したゲーム開発について学ぶ"
 
 +++
