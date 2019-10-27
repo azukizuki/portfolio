@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kazuaki.Terabayashi
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Game Developer / Unity / cocos2d / AR Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CyberAgaent.Inc
+  url: "https://www.cyberagent.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio:
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Unity
+- XR(AR/VR)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: ゲーム学部ゲーム制作学科4年制課程修了
+    institution: HAL 東京
+    year: 2018
+  - course: 基本情報技術者
+    institution: IPA
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:kazuaki.terabayashiazuki@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Azukiidx
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/azk_dev
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/azukizuki
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,7 +64,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+2014年よりHAL東京にてプログラミング/ゲーム開発を学び2018年に卒業しCyberAgentに新卒入社　
+入社後はゲーム事業部に配属されCocos2d-x運用タイトルのクライアントエンジニアとして従事。
+その後、技術研究の部署に異動しUnity-ARKit/ARCoreを用いたARアプリケーションのアプリ開発・リリースまでを一人で行う。
+リリース後は新規開発に異動し現在クライアントエンジニアとして従事
