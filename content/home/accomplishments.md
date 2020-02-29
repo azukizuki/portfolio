@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CyberAgent - GCREST"
   organization_url = "https://www.gcrest.com/"
+  title = "星鳴エコーズ"
+  url = "https://www.hoshinari.jp/"
+  date_start = "2019-11-27"
+  date_end = ""
+  description = "2019年末にリリースされた育成シミュレーションゲームです。Unityエンジニアとして従事し、主にアウトゲーム機能開発や通信周りの改修を行いました"
+
+
+[[item]]
+  organization = "CyberAgent - GCREST"
+  organization_url = "https://www.gcrest.com/"
   title = "王子様に急接近AR"
   url = "https://www.gcrest.com/news/post/6419"
   date_start = "2019-10-01"

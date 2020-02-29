@@ -12,17 +12,5 @@
       <link>https://azukizuki.github.io/portfolio/authors/</link>
     </image>
     
-    <item>
-      <title></title>
-      <link>https://azukizuki.github.io/portfolio/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://azukizuki.github.io/portfolio/authors/admin/</guid>
-      <description>&lt;p&gt;2014年よりHAL東京にてプログラミング/ゲーム開発を学び2018年に卒業しCyberAgentに新卒入社　
-入社後はゲーム事業部に配属されCocos2d-x運用タイトルのクライアントエンジニアとして従事。
-その後、技術研究の部署に異動しUnity-ARKit/ARCoreを用いたARアプリケーションのアプリ開発・リリースまでを一人で行う。
-リリース後は新規開発に異動し現在クライアントエンジニアとして従事&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

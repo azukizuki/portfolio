@@ -22,16 +22,16 @@ company = "CyberAgent,Inc."
   company_url = "https://www.cyberagent.co.jp/"
   location = "Tokyo,Shibuya"
   date_start = "2018-04-02"
-  date_end = ""
+  date_end = "2020-02-29"
   description = "ゲームエンジニアとして入社　現在子会社のGCRESTに所属　女性向けゲームの開発運営、ARアプリの開発などを担当"
   
-  # [[experience]]
-  #company = "Graffity Inc,"
-  # company_url = "http://www.graffity.jp/"
-  # location = "Tokyo,Omote-sando"
-  # date_start = "2019-08-01"
-  #date_end = ""
-  # description = "arエンジニアとして従事"
+  [[experience]]
+  company = "Graffity Inc,"
+  company_url = "http://www.graffity.jp/"
+  location = "Tokyo,Omote-sando"
+  date_start = "2019-08-01"
+  date_end = "2020-02-29"
+  description = "Unity(AR)エンジニアとして副業契約で従事、インゲームの機能追加やビルド環境の自動化（Jenkins）などを行いました"
     
   [[experience]]
   company = "Craft Egg Inc."

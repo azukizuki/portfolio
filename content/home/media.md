@@ -45,13 +45,13 @@ date_format = "Jan 2006"
   description = "上記のWeb記事より詳細な内容がCGWORLD 2019年10月号にて紙面掲載されていますので是非ご覧ください"
   
   [[item]]
-  organization = "イケメンテックラボブログ"
+  organization = "GCREST DEVELOPERS BLOG"
   organization_url = "https://blog.gcrest.com/"
-  title = "イケメンテックラボブログ"
+  title = "GCREST DEVELOPERS BLOG"
   url = "https://blog.gcrest.com/"
   date_start = "2019-01-01"
-  date_end = ""
-  description = "現在配属されている子会社のエンジニアブログです。立ち上げから関わり、記事の半数ほどは私が執筆しています。"
+  date_end = "2020-02-27"
+  description = "CyberAgentで配属された子会社の開発者ブログです。立ち上げから参加し、現在ある記事の半数近くは私が執筆しています。社内のアウトプットを活発にするために推進もしていました。"
   
   [[item]]
   organization = "Battle Conference Under 30"
