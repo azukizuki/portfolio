@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  company = "Graffity Inc,"
+  company_url = "http://www.graffity.jp/"
+  location = "Tokyo,Omote-sando"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = "リードエンジニアとして入社　現在新規プロダクトの開発に従事"
+
 [[experience]]
 company = "CyberAgent,Inc."
   company_url = "https://www.cyberagent.co.jp/"

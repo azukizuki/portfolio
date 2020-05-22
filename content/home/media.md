@@ -61,6 +61,15 @@ date_format = "Jan 2006"
   date_start = "2019-07-06"
   date_end = ""
   description = "CyberAgentが主催する30歳以下のエンジニア向けカンファレンスイベント BattleConferenceUnder30でARアプリのブース展示を行いました"
+
+  [[item]]
+  organization = "Unitips Vol5"
+  organization_url = "https://creator.game.cyberagent.co.jp/?p=6880"
+  title = "Unitips Vol.5 ARFoundationでモーションキャプチャを使ってみる 執筆"
+  url = "https://creator.game.cyberagent.co.jp/?p=6880"
+  date_start = "2020-03-13"
+  date_end = ""
+  description = "CyberAgentのゲーム事業部の有志で技術書典にて頒布した技術書の第一章を執筆しました"
   
   
 +++
